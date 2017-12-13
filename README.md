@@ -20,4 +20,4 @@
 
 ## akka Actor
 
-- Developped an akka program for counting and estimating the number of vowels in a set of English text files.
+- Developped a message sending system using akka framework to count and estimate the number of vowels in a set of text files.
