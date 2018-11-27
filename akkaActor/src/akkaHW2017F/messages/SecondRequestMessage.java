@@ -1,7 +1,5 @@
 package akkaHW2017F.messages;
 
-import akka.actor.ActorRef;
-
 public class SecondRequestMessage {
 	
 	private final String text;

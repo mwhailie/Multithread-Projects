@@ -23,7 +23,7 @@ import akkaHW2017F.messages.StartProcessingFolderMessage;
  * {@code WordCountInAFileActor} depending upon the number of files in the given
  * directory structure
  * 
- * @author akashnagesh
+ * @author hailie
  *
  */
 public class Estimator extends UntypedActor {

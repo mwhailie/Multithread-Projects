@@ -9,7 +9,7 @@ package akkaHW2017F.messages;
  * around actors. You are free to add more classes(Messages) that you think is
  * necessary
  * 
- * @author akashnagesh
+ * @author hailie
  *
  */
 public class Messages {

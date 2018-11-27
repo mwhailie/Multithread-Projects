@@ -2,10 +2,7 @@ package akkaHW2017F.actor;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.Scanner;
-import java.util.StringTokenizer;
 
-import akka.actor.ActorRef;
 import akka.actor.Props;
 import akka.actor.UntypedActor;
 import akkaHW2017F.messages.FirstRespondMessage;
@@ -14,7 +11,7 @@ import akkaHW2017F.messages.FirstRequestMessage;
  * this actor reads the file, counts the vowels and sends the result to
  * Estimator. 
  *
- * @author akashnagesh
+ * @author hailie
  *
  */
 public class FirstCounter extends UntypedActor {
