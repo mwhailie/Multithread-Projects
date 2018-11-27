@@ -20,4 +20,4 @@
 
 ## akka Actor
 
-- Developped a message sending system using akka framework to count and estimate the number of vowels in a set of text files.
+- Developped a message sending system using akka framework to count and estimate the percentage of vowels in a set of text files.
