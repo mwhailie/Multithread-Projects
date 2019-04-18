@@ -1,3 +1,3 @@
 # Multithread-Projects
 
-我不敢说不曾学过多线程
+我不敢说我曾学过多线程
